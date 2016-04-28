@@ -1,0 +1,2 @@
+# create_prj
+通过选择AXI和wishbone总线相关选项，自动生成各总线的verilog模板文件
